@@ -1,19 +1,16 @@
 ## Ben Butterworth
-> Journalist writing about tech and society
+Hi, there, welcome to my GitHub page! 👋 
 
 ### Who am I?
-
-Hi, there, welcome to my GitHub page! 👋 I'm Ben and I write about the social impact of science and technology. Here is where I store my coding projects. 
-
-This is also where I put "behind the scenes" stuff about the articles I write, like bibliographies and sources. Why do I put that on GitHub? Because I believe you should be able to make an informed choice about whether or not you trust what I say. Good journalism is about accuracy, accountability and clarity, and putting my methods online lets you check if I obey those principles. Don't trust me - audit me.
+I'm Ben and I'm teaching myself how to design and code great software tools.
 
 ### What am I working on right now?
-1. I'm trying to figure out a winning strategy for the board game Othello based on years of World Championship games (`OthelloScope`).
-2. I'm getting an automated web-scraper ready for production for Diabetologia (where I work) to generate their weekly newsletter (`auto-etoc`).
-3. I'm also making a guide to making software tools for people who, like me, never did any computer science training.
+1. I'm maintaining a web-scraper, `auto-etoc`, that helps generate Diabetologia's weekly newsletter.
+2. I'm learning `go` with some small projects like a password generator `dgenerate` and a [steganographic](https://en.wikipedia.org/wiki/Steganography) image manipulation tool, `stego`.
+3. I'm also designing a CLI program that'll help me organise my writing projects by generating an interactive index of keywords.
 
 ### I'm a beginner!
-Reach out and teach me something! I want to learn more about everything I'm doing, so if you see me miss an important perspective, make a mistake or you just want to give advice, please contact me!
+Software isn't my background, so this is all new to me! I'm loving getting stuck in even though I feel out of my depth. I want to cut my teeth working alongside great people, so don't be afraid to reach out and tell me what I can be doing better!
 
 <!--
 **benbutterworth/benbutterworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
